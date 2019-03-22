@@ -1,0 +1,20 @@
+{
+  "name": "botoff",
+  "version": "0.1.0",
+  "description": "Bot Discord",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "LePingouinBleu",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "ffmpeg-binaries": "^4.0.0",
+    "mathjs": "^5.8.0",
+    "ms": "^2.1.1",
+    "opusscript": "0.0.6",
+    "superagent": "^4.1.0",
+    "ytdl-core": "^0.29.1"
+  }
+}
